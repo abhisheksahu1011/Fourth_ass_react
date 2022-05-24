@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: 0;
+    font-size: 30px;
+    background: linear-gradient(
+        to left,
+        pink,
+        rgb(81, 235, 255)
+    );
+    text-align: center;
+    font-style: italic;
+}
+
+.container-fluid{
+   background-color: red;
+   padding: 10px 10px;
+   width: 100%;
+}
+#navbarNav{
+    display: flex;
+    justify-content: space-evenly;
+}
+.NavBar_ctn{
+    background-color: brown;
+}
