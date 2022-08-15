@@ -3,17 +3,18 @@
     padding:0;
     box-sizing: 0;
     font-size: 30px;
-    
     text-align: center;
     font-style: italic;
 }
-.body{
-      background-image: linear-gradient(
-        to left,
-        pink,
-        rgb(81, 235, 255)
-    );
+
+body{
+    background-image: linear-gradient(
+        to right,
+       pink,
+       rgb(60, 186, 245)
+   ) ;
 }
+
 .container-fluid{
    background-color: red;
    padding: 10px 10px;
